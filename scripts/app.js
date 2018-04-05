@@ -23,5 +23,5 @@ function calzones(){
       $('#text3').text(pregunta.answers[2])
       $('#input3').val(pregunta.answers[2])
     }
-    
+
     $(calzones)
